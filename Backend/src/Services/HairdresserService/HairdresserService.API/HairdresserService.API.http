@@ -1,0 +1,6 @@
+@HairdresserService.API_HostAddress = http://localhost:5202
+
+GET {{HairdresserService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
